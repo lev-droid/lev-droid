@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/lev-droid?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" alt="View Repositories"></a>
-  <a href="https://discordapp.com/users/960983051976986634"><img src="https://img.shields.io/badge/Discord-Chat-blue?style=for-the-badge&logo=github" alt="Chat on Discord"></a>
+  <a href="https://discordapp.com/users/965696452229726328"><img src="https://img.shields.io/badge/Discord-Chat-blue?style=for-the-badge&logo=github" alt="Chat on Discord"></a>
 </p>
 
 ---
